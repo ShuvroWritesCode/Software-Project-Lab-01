@@ -1,0 +1,2 @@
+# Software-Project-Lab-01
+This is git repository for our software project lab-01. This is a lab course under our University courses with 1.5 credit. At most 3 students in a team need to work on a web/app development project throughout the semester under an individual supervisor. The project is judged and evaluated at the end of the semester by the committee and based on the individual performance of the student, the supervisor submits his evaluation form.
