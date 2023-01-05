@@ -6,13 +6,13 @@ This is a lab course under our University academic courses with 1.5 credit. At m
 ## Our Team
 Our Team includes the following members:
 -
--
--
--
+- Chowdhury Ashfaq
+- Tasrefee Mahmud Ridun
+- Iftekharul Haque Shuvro
 
 ## About the Project
 We built a website called 'Class-ify'. <br/>
 It is an all-in-one class management system.
 
-## Class-ify
+## Classify
 
